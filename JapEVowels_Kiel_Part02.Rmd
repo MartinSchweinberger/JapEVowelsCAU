@@ -926,11 +926,11 @@ sjPlot::tab_model(m15)
 
 ## Final Minimal Adequate Model
 
-```{r pmf, message=F, warning=F}
+```{r pmf1, message=F, warning=F}
 sjPlot::tab_model(m0, m10)
 ```
 
-```{r pmf, message=F, warning=F}
+```{r pmf2, message=F, warning=F}
 sjPlot::tab_model(m10)
 ```
 
